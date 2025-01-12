@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbakaLog
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to make updates for my discord bot
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to make a fully functioning website that will be used globally
 - 📫 How to reach me - https://discord.gg/tCYZtypx86
 - 😄 Pronouns: He/Him
 
