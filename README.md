@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AbakaLog
-- 👀 I’m interested in Full Stack Development
+- 👋 Hi, I’m @AbakaMonkey
+- 👀 I’m interested in Arch Linux and Bash
 - 🌱 I’m currently learning Bash
-- 💞️ I’m looking to make a fully functioning website that will be used globally
+- 💞️ I’m looking to make an actually useful app that people will use to help their workflow (generic, but this is what inspires me)
 - 📫 How to reach me - you dont
 - 😄 Pronouns: Xe/Xer
 
